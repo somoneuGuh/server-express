@@ -1,0 +1,2 @@
+¿Qué es mi producto y para qué sirve?: El producto es un servidor Express simple. Sirve para gestionar solicitudes HTTP y proporcionar una plataforma para crear aplicaciones web y servicios en línea.
+¿Cuáles son las funcionalidades más importantes y por qué los usuarios las usarían?: Las funcionalidades clave incluyen el manejo de solicitudes HTTP y el enrutamiento básico de rutas. Los usuarios las usan para crear aplicaciones web y servicios en línea que respondan a las solicitudes de los clientes de manera accesible y sin necesidad de conocimientos técnicos avanzados.
